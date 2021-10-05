@@ -1,1 +1,3 @@
 Python da ilerlenicek : SQ Lite öğren (veri tabanı öğren yani) open cv var bunun haricinde (görüntü işlme) makine öğrenmesi de var.
+
+kaldığım yer: https://www.tutorialspoint.com/arduino/arduino_data_types.htm

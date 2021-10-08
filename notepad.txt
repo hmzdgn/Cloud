@@ -1,0 +1,13 @@
+latest:
+-https://realpython.com/python-pyqt-gui-calculator/
+-https://likegeeks.com/pyqt5-tutorial/
+
+
+don't forget to 'google translate' extension
+
+
+note(08.10.2021): pyqt5 don't install without pip, but we can say for other libraries github and authors are sharing their website we can download from these.
+I couldn't install with these. Ask to teacher.
+
+
+sites: https://mtsfl.meb.k12.tr/meb_iys_dosyalar/41/06/758015/dosyalar/2021_09/12142918_Sinif-Programlari.pdf

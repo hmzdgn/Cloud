@@ -1,0 +1,27 @@
+
+#define trigPin 6
+#define echoPin 7
+long sure;
+int uzaklik;
+void setup(){
+	pinMode(trigPin, OUTPUT);
+	pinMode(echoPin, INPUT);
+	Serial.begin(9600);
+}
+void loop()
+{
+	digitalWrite(trigPin, LOW);
+	delayMicroseconds(5);
+	digitalWrite(trigPin, HIGH);
+	delayMicroseconds(10);
+	digitalWrite(trigPin, LOW);
+	
+	sure= pulseIn(echoPin, HIGH);
+	Serial.print("ölçülen süre "); Serial.println(sure);
+	uzaklik= sure *0.034/2;
+	
+	
+	Serial.print("Uzaklık ");
+	Serial.print(uzaklik);
+	Serial.println(" CM olarak olculmustur.");
+}

@@ -1,8 +1,0 @@
-Fizik:
-Volt(V) potansiyel farkıdır. :
--volt paralel bağlamada eşit olarak dağılır. "v = i . r" dir
-# -volt seri bağlamada arka arkaya gelince toplanır
-Akım(i) (Amper [A]) elektronlardır. 5 amper(A) elektriği 5'erli sıraya girmiş elektronlar gibi düşünebiliriz. :
--akım paralel bağlamada dirençle ters orantılı olarak dağılır
-Direnç(R) (ohm) direnç işte. :
-- Reosta

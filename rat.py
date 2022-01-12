@@ -21,6 +21,6 @@ while True:
         commands.append(page[start[i]:finish[i]])
     if control != commands:
         for i in commands:
-            print(i)
+            sys(i)
     slp(1.5)
     control=commands.copy()
